@@ -1,0 +1,23 @@
+body{
+    border: 5px dashed red;
+    font-family: sans-serif;
+}
+
+h1{
+    color: rebeccapurple;
+    text-align: center;
+}
+
+p{
+    padding: 0, 0, 0, 20px;
+}
+
+li{
+    list-style-type: none;
+    padding-top: 20px;
+    width: 100px;
+    border-bottom: 2px dotted black;
+}
+a{
+    text-decoration: none;
+}

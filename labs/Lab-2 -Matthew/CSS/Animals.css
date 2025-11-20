@@ -1,0 +1,40 @@
+table, td, th{
+    border: 1px solid blue;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+td{
+    text-align: center;
+}
+
+img{
+    max-width: 150px;
+    max-height: 150px;
+}
+
+.giraffe{
+    background-color: burlywood;
+}
+.panda{
+    background-color: black;
+    color: white;
+}
+.kangaroo{
+    background-color: rgb(196, 173, 146)
+}
+.wolf{
+    background-color: rgb(90, 40, 18);
+    color: white;
+}
+.yapok{
+    background-color: grey;
+}
+.penguin{
+    background-color: white;
+}
+.deer{
+    background-color: rgb(186, 135, 89);
+}

@@ -1,0 +1,32 @@
+img {
+  max-width: 150px;
+  max-height: 150px;
+}
+
+body {
+  background-color: aqua;
+}
+
+h1 {
+  font-size: 6rem;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2 {
+  font-size: 2rem;
+}
+nav {
+  text-align: center;
+}
+
+li,
+p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.welcome {
+  text-align: center;
+  font-size: 4rem;
+}
